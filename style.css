@@ -1,0 +1,23 @@
+
+/* 
+.logo {
+    animation: rotating 5s;
+    @keyframes rotating {
+        0%    { 
+            rotate(360deg);
+            opacity: 0; 
+        }
+        20%   { 
+            rotate(360deg);
+            opacity: 1; 
+        }
+        80%   { 
+            rotate(360deg);
+            opacity: 0; 
+        }
+        100%  { 
+            rotate(360deg);
+            opacity: 1; 
+        }
+      }
+    } */
